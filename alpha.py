@@ -1,3 +1,4 @@
+#ALphabet
 char=input()
 if char.isalpha():
   print("Alphabet")
