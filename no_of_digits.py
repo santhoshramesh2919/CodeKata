@@ -1,3 +1,3 @@
 #Length of digit
-n=(input())
+n=input()
 print(len(n))
