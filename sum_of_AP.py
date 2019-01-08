@@ -1,4 +1,4 @@
-#arithmetic progression
+#arithmetic progression for n numbers
 n,a,d=map(int,input().split(" "))
 sum =a
 for i in range(1,n):
