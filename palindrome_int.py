@@ -1,4 +1,4 @@
-#palindrome
+#palindrome for a number
 n=int(input())
 t=n
 r,s=0,0
