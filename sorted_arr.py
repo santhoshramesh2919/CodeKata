@@ -1,6 +1,6 @@
 #sorted array
 n=int(input())
-li=list(map(int,input().split()))
+li=list(map(str,input().split()))
 li.sort()
 print(" ".join(li))
   
