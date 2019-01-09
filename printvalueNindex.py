@@ -1,3 +1,4 @@
+#printing values and index
 n=int(input())
 li=list(map(int,input().split()))
 for i in range(len(li)):
