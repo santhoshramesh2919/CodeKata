@@ -1,3 +1,4 @@
+#Numeric check
 a = input()
 try:
   a = int(a)
