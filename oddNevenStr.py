@@ -7,4 +7,4 @@ for i in range(0,len(str)):
         strodd=strodd+str[i]
     else:
         streven=streven+str[i]
-print(strodd,streven
+print(strodd,streven)
