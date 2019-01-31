@@ -2,9 +2,9 @@ li=list(input())
 li1=[]
 for i in li:
     if i in li1:
-        print("no")
+        print("No")
         break
     else:
         li1.append(i)
 else:
-    print("yes")
+    print("Yes")
